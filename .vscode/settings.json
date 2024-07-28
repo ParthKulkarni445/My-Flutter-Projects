@@ -1,0 +1,8 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "cmake.sourceDirectory": "C:/Users/parth/OneDrive/Desktop/Flutter Projects/unite_app/windows/runner"
+}
